@@ -1,0 +1,10 @@
+# Mac OS
+.DS_Store
+
+# IntelliJ / IDE
+.idea/
+*.iml
+
+# Node modules
+frontend/node_modules/
+backend/node_modules/
